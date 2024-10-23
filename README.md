@@ -57,4 +57,5 @@ To delete a bucket, you must retype the bucket name. This policy is implemented 
 
 ## Result
 
-Successfully launched, configured, accessed, and terminated an EC2 instance on AWS, demonstrating the core functionalities of Amazon EC2.
+Successfully created, managed, and deleted an S3 bucket on AWS, demonstrating the ability to upload, access, and control objects within Amazon S3.
+
